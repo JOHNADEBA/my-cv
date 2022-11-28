@@ -27,7 +27,7 @@ export default {
   },
 
   mounted() {
-    this.downloadWithCSS();
+    // this.downloadWithCSS();
   },
   methods: {
     // downloadWithCSS() {
